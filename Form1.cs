@@ -17,6 +17,27 @@ namespace Proyecto_Escritorio3
             InitializeComponent();
         }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         private void btnCalcular_Click(object sender, EventArgs e)
         {
             double Total=0.0;
